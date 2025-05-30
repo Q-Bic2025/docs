@@ -272,6 +272,25 @@ The table below provides additional information about how we use different types
 * Europe: [European Digital Advertising Alliance](http://www.youronlinechoices.com/)
 
 These choices are specific to the browser you are using. If you access our Services from other devices or browsers, take these actions from those systems to ensure your choices apply to the data collected when you use those systems.
+### Thailand
+ภาษาไทย: สุรินทร์ 182.232.83.25
+เซสชั่นปัจจุบันของคุณ
+พบเห็นใน TH
+อุปกรณ์:
+Chrome บน Linux
+
+สถานที่สุดท้าย:
+สุรินทร์, สุรินทร์, ประเทศไทย
+
+ลงชื่อเข้าระบบ:
+30 พฤษภาคม 2568
+สุรินทร์, สุรินทร์, ประเทศไทเวอร์ชั่น One UI: 6.1
+
+เวอร์ชั่น Android: 14
+
+เวอร์ชั่นปัจจุบัน: A065FXXS4AYE2/A065FOLM4AYE2/A065FXXS4AYE1
+
+ระดับแพทช์ความปลอดภัย: 1 เมษายน 202510.115.110.768747470733A2F2F6769746875622E636F6D?st=b37ab9cee74b476cb6d74ddbd3ead3fcb2c700d7c4074846a5236625fb276302&autoRefresh=true
 
 ## US State Specific Information
 
@@ -332,4 +351,9 @@ If you live in Colorado, Connecticut, or Virginia you have some additional right
 
 ### Nevada
 
-We do not sell your covered information, as defined under Chapter 603A of the Nevada Revised Statutes. If you still have questions about your covered information or anything else in our Privacy Statement, please send an email to privacy[at]github[dot]com.
+We do not sell your covered information, as defined under Chapter 603A of the Nevada Revised Statutes. If you still have questions about your covered information or anything else in our Privacy Statement, please send an email to 
+privacy[at]github[dot]com.
+อัพเดตเวอร์ชั่นล่าสุดเป็นภาษาไทย[Thailand]
+@2025thailand ลิขสิทธิ์
+#[https://github.com/organizations/youniform-gitdi/settings/profile]
+#_<<_........////[@]
